@@ -10,9 +10,9 @@ import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import Home from "./pages/Home";
 import CreateProducts from "./components/CreateProducts";
-import OrderConfirmation from "./pages/OrderConfirmation";
 import CheckOutForm from "./components/CheckOutForm";
 import Login from "./components/Login/Login.js";
+import Admin from './pages/Admin'
 
 // import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -50,6 +50,9 @@ function App() {
               </Route>
               <Route path="/login" exact>
                 <Login />
+              </Route>
+              <Route path="/admin" exact>
+                <Admin />
               </Route>
             </Switch>
           </div>

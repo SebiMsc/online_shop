@@ -9,11 +9,16 @@ export const DataProvider = (props) => {
   const [cart, setCart] = useState([]);
   const [user, setUser] = useState(appUsers);
 
-  // const localStorageCart = JSON.parse(localStorage.dataCart);
-  // const orderTotal = localStorageCart.reduce(
-  //   (acc, curr) => acc + curr.price * curr.count,
-  //   0
-  // );
+  const localStorageCart = JSON.parse(localStorage.getItem("dataCart"));
+  const isLoggedIn = Boolean(JSON.parse(localStorage.getItem("isLoggedIn")));
+
+  const setIsLoggedIn = (loggedIn) => {
+    localStorage.setItem('isLoggedIn', loggedIn);
+  }
+
+  const orderTotal = localStorageCart
+      ? localStorageCart.reduce((acc, curr) => acc + curr.price * curr.count, 0)
+      : 0;
 
   const [client, setClient] = useState([]); // client info from checkout form
 
@@ -29,24 +34,25 @@ export const DataProvider = (props) => {
     }
   };
 
-  // useEffect(() => {
-  //   const dataCart = JSON.parse(localStorage.getItem("dataCart"));
-  //   if (dataCart) {
-  //     setCart(dataCart);
-  //   }
-  // }, []);
+  useEffect(() => {
+    const dataCart = JSON.parse(localStorage.getItem("dataCart"));
+    if (dataCart) {
+      setCart(dataCart);
+    }
+  }, []);
 
-  // useEffect(() => {
-  //   localStorage.setItem("dataCart", JSON.stringify(cart));
-  // }, [cart]);
+  useEffect(() => {
+    localStorage.setItem("dataCart", JSON.stringify(cart));
+  }, [cart]);
 
   const value = {
     products: [products, setProducts],
     cart: [cart, setCart],
     addProduct,
-    // orderTotal,
+    orderTotal,
     client: [client, setClient],
     user,
+    loggedIn: [isLoggedIn, setIsLoggedIn]
   };
 
   return (

@@ -38,7 +38,7 @@ export default function Header() {
           <Link to="/about">About</Link>
         </li>
         <li>
-          <Link to="/admin">Admin</Link>
+          <a href={'/admin'}>Admin</a>
         </li>
         <li>
           <Link to="/login">Login/Logout</Link>
