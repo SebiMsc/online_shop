@@ -1,0 +1,211 @@
+[
+  {
+    "_id": "1",
+    "title": "Nike Air Force 1 '07",
+    "images": [
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/jomszuqr8gw3h18xhpro/air-force-1-07-shoe-KyTDGepj.jpg",
+      "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,q_auto:eco,so_4.8/fnpfrqywv44pehh8o1ug/air-force-1-07-shoe-KyTDGepj.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/s7b9hhnweke7btujcqgh/air-force-1-07-shoe-KyTDGepj.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/uzmzojffx41efevkvne0/air-force-1-07-shoe-KyTDGepj.jpg"
+    ],
+    "description": "Men's shoes",
+    "content": "Hoops in the park, Sunday BBQs and sunshine. The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on the features you know best: crisp leather, stitched overlays in classic all white and the perfect amount of flash to make you shine.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "nike",
+    "stock": 3,
+    "price": 101,
+    "count": 1
+  },
+  {
+    "_id": "2",
+    "title": "Nike Air Max 2090",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d136d71a-6821-41c0-b25b-bc2a28bb8ec3/air-max-2090-shoe-skBBrM.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9727a35c-2ef7-491c-bb5f-bd279d262f8c/air-max-2090-shoe-skBBrM.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cb882f89-3056-4413-8d46-b1538eb16c5e/air-max-2090-shoe-skBBrM.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d7c51a5a-1c53-4de1-9dca-e14d56feb1ab/air-max-2090-shoe-skBBrM.jpg"
+    ],
+    "description": "Men's shoes",
+    "content": "Bring the past into the future with the Nike Air Max 2090, a bold look inspired by the iconic Air Max 90. Brand-new Air cushioning underfoot adds unparalleled comfort while transparent mesh and vibrantly coloured details on the upper blend with timeless OG features for an edgy, modernised look.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "nike",
+    "stock": 4,
+    "price": 102,
+    "count": 1
+  },
+  {
+    "_id": "3",
+    "title": "Nike React Miler Shield",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/87c4e030-eabd-4baa-a138-bd422251ed90/react-miler-shield-running-shoe-rp83VX.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0af11a75-5a31-4189-b1a1-ed4ce9d3f993/react-miler-shield-running-shoe-rp83VX.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d6249f74-d330-44d2-9f80-71d1387834ff/react-miler-shield-running-shoe-rp83VX.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0a0b0ac6-7cd6-415c-bb55-54ff28806a5e/react-miler-shield-running-shoe-rp83VX.jpg"
+    ],
+    "description": "Men's Shoes",
+    "content": "Stick to your route in less-than-ideal conditions. The Nike React Miler delivers trusted stability for your wet-weather miles. Its tyre-inspired outsole gives you the traction you need to keep pace on slick roads. Water-repellent details around the upper help keep your foot dry.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "nike",
+    "stock": 5,
+    "price": 103,
+    "count": 1
+  },
+  {
+    "_id": "4",
+    "title": "ZX 2K BOOST PURE SHOES",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/e4fb4664f476436380cdac6b011d6b9c_9366/ZX_2K_Boost_Pure_Shoes_Black_G57963_04_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/537fca5ca84b460089a9ac6b011d5e87_9366/ZX_2K_Boost_Pure_Shoes_Black_G57963_02_standard_hover.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/9bb4ed4e8c4248178f40ac6b011d78af_9366/ZX_2K_Boost_Pure_Shoes_Black_G57963_41_detail.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/de56d2db10c04f8399b3ac6b011d538d_9366/ZX_2K_Boost_Pure_Shoes_Black_G57963_01_standard.jpg"
+    ],
+    "description": "ULTRA-COMFORTABLE SHOES FOR THE INS AND OUTS OF THE DAY.",
+    "content": "When the day calls for comfort, lace into these adidas ZX 2K Boost Pure Shoes. Plush Boost cushioning comforts every move. And when your day is busy, there are a lot of moves to support.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "adidas",
+    "stock": 6,
+    "price": 104,
+    "count": 1
+  },
+  {
+    "_id": "5",
+    "title": "NY 90 SHOES",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/bd36b5ab948a40b6becdac5a015f750f_9366/NY_90_Shoes_White_H04429_04_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/bd36b5ab948a40b6becdac5a015f750f_9366/NY_90_Shoes_White_H04429_04_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/bd36b5ab948a40b6becdac5a015f750f_9366/NY_90_Shoes_White_H04429_04_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/bd36b5ab948a40b6becdac5a015f750f_9366/NY_90_Shoes_White_H04429_04_standard.jpg"
+    ],
+    "description": "A STREAMLINED SNEAKER WITH SUBTLE SPORT STYLE.",
+    "content": "Every shoe wardrobe needs an MVP. That's most versatile player. Simple enough for daily wear. Stylish enough to stand out. Enter the adidas NY 90 Shoes. Based on an archive court shoe, this laid-back sneaker is just right for pretty much anything you can think of.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "adidas",
+    "stock": 7,
+    "price": 105,
+    "count": 1
+  },
+  {
+    "_id": "6",
+    "title": "NITE JOGGER SHOES",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/a47f23627fb54407bb84ac020092d01a_9366/Nite_Jogger_Shoes_Grey_FX6835_04_standard.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/be74e28e68104b75b566ac020092c287_9366/Nite_Jogger_Shoes_Grey_FX6835_02_standard_hover.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/b19646619f9940399d9bac020092ca3b_9366/Nite_Jogger_Shoes_Grey_FX6835_03_standard.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/9bda29541e704af7a5d2ac020092e09c_9366/Nite_Jogger_Shoes_Grey_FX6835_41_detail.jpg"
+    ],
+    "description": "SPACE-INSPIRED COLOURS AND FRESH MATERIALS UPDATE THESE ICONIC '80S SNEAKERS.",
+    "content": "Recapture that '80s vibe in the revolutionary running shoes that grabbed attention from dusk to dawn. The flash of eye-catching reflective details are back. Along with energy-returning Boost cushioning to keep you going all day. And night.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "shoes",
+    "brand": "adidas",
+    "stock": 8,
+    "price": 106,
+    "count": 1
+  },
+  {
+    "_id": "7",
+    "title": "Nike Jumpman Air",
+    "images": [
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/be55f555-5ce2-4dc1-a277-2eb736cec77c/jordan-jumpman-air-fleece-pullover-hoodie-PMwDLt.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b25dbede-f3f0-4732-b0b6-4b156e8ed7ed/jordan-jumpman-air-fleece-pullover-hoodie-PMwDLt.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/27614a5f-0572-4431-99c7-509019f6435c/jordan-jumpman-air-fleece-pullover-hoodie-PMwDLt.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/27614a5f-0572-4431-99c7-509019f6435c/jordan-jumpman-air-fleece-pullover-hoodie-PMwDLt.jpg"
+    ],
+    "description": "Pullover Hoodie",
+    "content": "Adjust on the fly. The Jordan Jumpman Air Pullover Hoodie has a toggle on the drawcord that you can quickly slide up or down to adjust the hood opening. The fabric is a midweight French terry that's smooth on the outside and softly brushed on the inside.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "clothing",
+    "brand": "nike",
+    "stock": 9,
+    "price": 106,
+    "count": 1
+  },
+  {
+    "_id": "8",
+    "title": "Nike Therma",
+    "images": [
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-dbd27717-3c99-4279-917a-4b0aad4452ce/therma-training-jacket-R5Q57z.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/gs7ejlkjx7bjst6dyb3s/therma-training-jacket-R5Q57z.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-2085535d-a19b-4a7b-96cf-c3d25aacfe57/therma-training-jacket-R5Q57z.jpg",
+      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-2085535d-a19b-4a7b-96cf-c3d25aacfe57/therma-training-jacket-R5Q57z.jpg"
+    ],
+    "description": "Training Jacket",
+    "content": "The Nike Therma Jacket brings the heat before, during and after workouts that pit you against the elements. It combines thermal fabric, lightweight insulation and nylon panels to keep you warm, dry and motivated in the face of questionable weather.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "clothing",
+    "brand": "nike",
+    "stock": 11,
+    "price": 106,
+    "count": 1
+  },
+  {
+    "_id": "9",
+    "title": "NikeCourt",
+    "images": [
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/frqfw8pvbw4g8txwkppe/nikecourt-fleece-tennis-hoodie-cBl3mG.jpg",
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/frqfw8pvbw4g8txwkppe/nikecourt-fleece-tennis-hoodie-cBl3mG.jpg",
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/frqfw8pvbw4g8txwkppe/nikecourt-fleece-tennis-hoodie-cBl3mG.jpg",
+      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/frqfw8pvbw4g8txwkppe/nikecourt-fleece-tennis-hoodie-cBl3mG.jpg"
+    ],
+    "description": "Tennis Hoodie",
+    "content": "Casual and comfortable, the NikeCourt Hoodie is a fleece favourite that's perfect for chilly days on and off the court.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "clothing",
+    "brand": "nike",
+    "stock": 12,
+    "price": 106,
+    "count": 1
+  },
+  {
+    "_id": "10",
+    "title": "Adidas Warm Coat",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/1c44aa24b1794f449804a88f00c2da3c_9366/Varilite_Soft_Down_Hooded_Jacket_Grey_CY8738_01_laydown.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/a03fe943f4c64da29cefa88f00c2e63a_9366/Varilite_Soft_Down_Hooded_Jacket_Grey_CY8738_02_laydown_hover.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/1c44aa24b1794f449804a88f00c2da3c_9366/Varilite_Soft_Down_Hooded_Jacket_Grey_CY8738_01_laydown.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/a03fe943f4c64da29cefa88f00c2e63a_9366/Varilite_Soft_Down_Hooded_Jacket_Grey_CY8738_02_laydown_hover.jpg"
+    ],
+    "description": "STAY WARM",
+    "content": "adidas Conextbaffles stable down chambers are woven into the material and connected without using any additional threads for better wind and water repellency.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "clothing",
+    "brand": "Adidas",
+    "stock": 15,
+    "price": 106,
+    "count": 1
+  },
+  {
+    "_id": "11",
+    "title": "MYSHELTER 4IN1 PARKA",
+    "images": [
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/f42e93172d48416398a6ac750125bbc7_9366/MYSHELTER_4IN1_Parka_Pink_GK8704_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/8f1fda7a1aea4e6382c7ac750125c9d2_9366/MYSHELTER_4IN1_Parka_Pink_GK8704_23_hover_model.jpg",
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/f42e93172d48416398a6ac750125bbc7_9366/MYSHELTER_4IN1_Parka_Pink_GK8704_21_model.jpg",
+      "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/8f1fda7a1aea4e6382c7ac750125c9d2_9366/MYSHELTER_4IN1_Parka_Pink_GK8704_23_hover_model.jpg"
+    ],
+    "description": "THE MYSHELTER 4IN1 PARKA. WEAR IT YOUR WAY",
+    "content": "Inspired by classic parka design, the all new MYSHELTER 4IN1 Parka provides a new level of versatility. The weather can be tough, your style choices shouldn't be. With it's 4in1 functionality the outer shell and padded jacket can be mixed and matched to create a unique look. Tailored to your needs.",
+    "colors": ["red", "black", "teal"],
+    "sizes": ["XL", "L", "M", "XM", "LX"],
+    "category": "clothing",
+    "brand": "Adidas",
+    "stock": 16,
+    "price": 106,
+    "count": 1
+  }
+]
